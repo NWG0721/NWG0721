@@ -55,3 +55,14 @@
     💡 Learned about web development in 2023  
     🔥 Began working on ERP systems in 2024  
 </details>
+<hr>
+### My YouTube Channel 🎥  
+Recently, I started a **new YouTube channel** about programming, cool tech stuff, and some interesting decisions. 🍉  
+I also talk about **Minecraft commands** and how to use them in the game.  
+If you're interested, feel free to check it out! 😁😁
+<a href="https://www.youtube.com/@NewFolder4">🔗YouTube</a>
+<br>
+## You can also see my some of repositories down here
+<br>
+<a href="https://github.com/NWG0721/MyGenericEShop">MyGenericEShop</a>
+<a href="https://github.com/NWG0721/Humayun_ERP">Humayun_ERP</a>

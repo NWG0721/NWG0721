@@ -1,7 +1,7 @@
 ## Hello there 👋
-#### I'm here.... my name is **Nima Alizadeh**
-#### I'm from Isfahan, Iran (Borned in 2007)
-#### I'm working on the ERP_EcoSystems, generic and reusable applications, and Codes.
+#### I'm here... my name is **Nima Alizadeh**
+#### I'm from Isfahan, Iran (Born in 2007)
+#### I'm working on ERP EcoSystems, generic and reusable applications, and clean code.
 ---
 
 ### My Skills ✌️
@@ -9,77 +9,49 @@
     <summary>Coding</summary>
     <table>
         <tr>
-            <td>
-                Language
-            </td>
-            <td>
-                Level
-            </td>            
-        </tr>
-                <tr>
-            <td>
-                C#
-            </td>
-            <td>
-                ⭐⭐⭐⭐⭐ %85
-            </td>
+            <td><b>Language</b></td>
+            <td><b>Level</b></td>            
         </tr>
         <tr>
-            <td>
-                HTML and CSS
-            </td>
-            <td>
-                ⭐⭐⭐⭐ %75
-            </td>
+            <td>C#</td>
+            <td>⭐⭐⭐⭐⭐ (85%)</td>
         </tr>
         <tr>
-            <td>
-                Ts and Js
-            </td>
-            <td>
-                ⭐⭐⭐ %55
-            </td>
+            <td>HTML & CSS</td>
+            <td>⭐⭐⭐⭐ (75%)</td>
         </tr>
         <tr>
-            <td>
-                SQL
-            </td>
-            <td>
-                ⭐⭐⭐ %55
-            </td>
+            <td>TypeScript & JavaScript</td>
+            <td>⭐⭐⭐ (55%)</td>
         </tr>
         <tr>
-            <td>
-                MCFunctions
-            </td>
-            <td>
-                ⭐⭐⭐ %59
-            </td>
+            <td>SQL</td>
+            <td>⭐⭐⭐ (55%)</td>
         </tr>
         <tr>
-            <td>
-                API C# .NetCore
-            </td>
-            <td>
-                ⭐⭐⭐⭐ %60
-            </td>
+            <td>MCFunctions</td>
+            <td>⭐⭐⭐ (59%)</td>
         </tr>
-                <tr>
-            <td>
-                Angular
-            </td>
-            <td>
-                ⭐ %03
-            </td>
+        <tr>
+            <td>C# .NET Core API</td>
+            <td>⭐⭐⭐⭐ (60%)</td>
         </tr>
-                </tr>
-                <tr>
-            <td>
-                Ml.Net
-            </td>
-            <td>
-                ⭐ %10
-            </td>
+        <tr>
+            <td>Angular</td>
+            <td>⭐ (3%)</td>
+        </tr>
+        <tr>
+            <td>ML.NET</td>
+            <td>⭐ (10%)</td>
         </tr>
     </table>
+
+</details>
+
+### Some things about myself
+<details>
+    <summary>My programming timeline</summary>
+    🚀 I Started learning C# in 2022  
+    💡 Learned about web development in 2023  
+    🔥 Began working on ERP systems in 2024  
 </details>

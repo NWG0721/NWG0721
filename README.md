@@ -51,7 +51,7 @@
 ### Some things about myself
 <details>
     <summary>My programming timeline</summary>
-    🚀 I Started learning C# in 2022  
+    🚀 I Started learning C# since 2022  
     💡 Learned about web development in 2023  
     🔥 Began working on ERP systems in 2024  
 </details>

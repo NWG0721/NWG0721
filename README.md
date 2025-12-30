@@ -71,4 +71,3 @@ If you're interested, feel free to check it out! 😁😁
 <br>
 <a href="https://github.com/NWG0721/MyGenericEShop">🟩 MyGenericEShop</a>
 <br>
-<a href="https://github.com/NWG0721/Humayun_ERP">🟪 Humayun_ERP</a>

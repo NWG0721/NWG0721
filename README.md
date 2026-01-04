@@ -5,8 +5,7 @@
 ---
 
 ### My Skills ✌️
-<details>
-    <summary>Coding</summary>
+    <summary><h3>Coding</h3></summary>
     <table>
         <tr>
             <td><b>Language</b></td>
@@ -45,8 +44,6 @@
             <td>⭐ (10%)</td>
         </tr>
     </table>
-
-</details>
 
 ### Some things about myself
 <details>

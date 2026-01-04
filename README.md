@@ -5,8 +5,7 @@
 ---
 
 ### My Skills ✌️
-    <summary><h3>Coding</h3></summary>
-    <table>
+<table>
         <tr>
             <td><b>Language</b></td>
             <td><b>Level</b></td>            
@@ -43,15 +42,12 @@
             <td>ML.NET</td>
             <td>⭐ (10%)</td>
         </tr>
-    </table>
+</table>
 
-### Some things about myself
-<details>
-    <summary>My programming timeline</summary>
+<h3>My programming timeline</h3>
     🚀 I Started learning C# since 2022  
     💡 Learned about web development in 2023  
     🔥 Began working on ERP systems in 2024  
-</details>
 <hr>
 
 ### My YouTube Channel 🎥  
